@@ -1,0 +1,38 @@
+.ProductReviews {
+	text-align: center;
+	max-width: 600px;
+	margin: 24px auto 0;
+  }
+  
+  ul {
+	text-align: left;
+  }
+
+  .FiveStar-width {
+	width: 20px;
+}
+
+.FiveStar-totalBackground {
+	width: 120px;
+}
+
+.FiveStar-totalOverlay {
+	width: 120px;
+	position: absolute;
+    z-index: 1;
+    top: 9.3rem;
+    overflow: hidden;
+}
+
+.FiveStar-width {
+    width: 8.3rem !important;
+    height: 2rem;
+}
+
+.productreviewTitle {
+	margin-bottom: 5px;
+}
+
+.u-iconGrayLight {
+	color: gray;
+}
