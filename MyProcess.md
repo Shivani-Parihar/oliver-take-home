@@ -17,3 +17,6 @@
 - handleSubmit will do a post call using axios to a Database to store that product’s rating 
 
 I would have liked to style the page more if time had permitted. 
+Also I would like to point out that my experience is with VueJs framework and minimal experience with React, so it took me sometime to adjust to the syntax and get things working for this assignment.
+
+Thank you!
